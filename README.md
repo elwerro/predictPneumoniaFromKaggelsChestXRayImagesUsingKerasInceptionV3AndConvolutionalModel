@@ -1,0 +1,2 @@
+# predictPneumoniaFromKaggelsChestXRayImagesUsingKerasInceptionV3AndConvolutionalModel
+predict Pneumonia From Kaggels Chest X Ray Images Using Keras InceptionV3 And Convolutional Model
