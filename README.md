@@ -20,9 +20,11 @@ Move the dataset from kaggle inside the "input" folder. So now there should only
 Inside the "output" folder, create three folders named "figures", "logs", and "models"
 
 
-##dependencies
+# dependencies
 Install jupyter notebook
+
 Install Python 3.6
+
 Install all of the dependencies from the requirements3.txt
 
 
