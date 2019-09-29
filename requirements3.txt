@@ -1,0 +1,14 @@
+!pip install numpy==1.14.3
+!pip install pandas==0.23.0
+!pip install tqdm==4.28.1
+!pip install keras==2.2.4
+!pip install Keras-preprocessing==v1.0.5
+!pip install tensorflow==1.12
+!pip install PIL/Pillow==5.1.0
+!pip install opencv-python==3.4.4.19
+!pip install matplotlib==2.2.2
+!pip install seaborn==0.8.1
+!pip install scikit-learn==0.20.1
+!pip install mlxtend==0.14.0
+
+
