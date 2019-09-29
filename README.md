@@ -28,6 +28,8 @@ Install Python 3.6
 Install all of the dependencies from the requirements3.txt
 
 
-
+# result
 
 I was only able to run https://github.com/anjanatiha/Pneumonia-Detection-from-Chest-X-Ray-Images-with-Deep-Learning this code as is and got a different result, and uploaded the run I did as a jupyter notebook, which used the custom convolutional model. I am trying to run the inception v3 model in that code but I am getting an errors that I have yet to find out how to fix.
+
+I want to upload another jupyter notebook that has the results from using the inception v3 model
